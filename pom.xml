@@ -31,6 +31,11 @@
 			<version>${gsdwn.version}</version>
 		</dependency>
 		<dependency>
+			<groupId>com.artronics.gsdwn</groupId>
+			<artifactId>gsdwn-suren</artifactId>
+			<version>${gsdwn.version}</version>
+		</dependency>
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
 			<exclusions>
